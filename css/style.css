@@ -1019,7 +1019,7 @@ a .news__item:hover {
     ),
     url(../images/ftr2.jpg) no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../img/representation-user-experience-interface-design.jpg) no-repeat;
+    url(../img/last.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
